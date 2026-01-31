@@ -4,3 +4,6 @@
 [submodule "Flight-Booking-Service"]
 	path = Flight-Booking-Service
 	url = https://github.com/AkilSabir2203/Flight-Booking-Service
+[submodule "Flights-Notification-Service"]
+	path = Flights-Notification-Service
+	url = https://github.com/AkilSabir2203/Flights-Notification-Service
