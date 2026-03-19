@@ -7,3 +7,6 @@
 [submodule "Flights-Notification-Service"]
 	path = Flights-Notification-Service
 	url = https://github.com/AkilSabir2203/Flights-Notification-Service
+[submodule "Flight-API-Gateway"]
+	path = Flight-API-Gateway
+	url = https://github.com/AkilSabir2203/Flight-API-Gateway
